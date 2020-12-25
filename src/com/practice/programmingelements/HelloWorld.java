@@ -9,6 +9,9 @@ s.ThreeSort 3 2 1
 public class HelloWorld {
 
     public static void main(String[] args) {
+        int i = Integer.parseInt("08");
         StdOut.println("Hello World");
+        StdOut.println(i);
+
     }
 }

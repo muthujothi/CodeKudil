@@ -2,7 +2,7 @@ package com.practice.bottomup;
 
 import edu.princeton.cs.algs4.StdOut;
 
-//C:\Learnings\IntroCSSedgewick\algs4.jar
+//Project Euler - Problem 015
 public class LatticePaths {
 
     public static void main(String[] args) {
