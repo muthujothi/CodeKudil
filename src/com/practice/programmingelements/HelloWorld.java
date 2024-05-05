@@ -22,7 +22,5 @@ public class HelloWorld {
                 total += test_arr[i].length();
         }
         StdOut.println(total);
-
-
     }
 }
